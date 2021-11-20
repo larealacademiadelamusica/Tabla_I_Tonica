@@ -1,0 +1,19 @@
+.container {
+  width: 450px;
+}
+
+table {
+  color: #999999;
+
+  font-family: Josefin Sans, sans-serif;
+  overflow: scroll;
+}
+
+td {
+  color: #999999;
+  font-family: Josefin Sans, sans-serif;
+}
+
+p {
+  color: #E39223;
+}
